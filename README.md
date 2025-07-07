@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitim kapsamında ilk açtığım repo
 ## Kodluyoruz Ilk Repo
-
+![alt text](<Ekran Resmi 2025-07-07 11.56.11.png>)
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
